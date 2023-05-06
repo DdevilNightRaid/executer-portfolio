@@ -15,7 +15,7 @@ const Home = () => {
                 <h2 className='defaultColor heading'>+2 Graduate Student</h2>
                 <p className='defaultColor'>Looking for a <span className='focusColor'>tution teacher </span> for <span className='focusColor'>grade 1 to 10 students</span> at an <span className='focusColor'>affordable price</span>?</p>
                 <p className='defaultColor'>Then Search No more,</p>
-                <p className='defaultColor'>Cause stuedent is here to <span className='focusColor'>teach student </span>in the most effective and <span className='focusColor'>cost efficent</span> manner</p>
+                <p className='defaultColor'>Cause student is here to <span className='focusColor'>teach student </span>in the most effective and <span className='focusColor'>cost efficent</span> manner</p>
             </section>
             <section className="hbSection1">
                 <img src={clock} alt="" className='heroSideImgs zero'/>
